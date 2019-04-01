@@ -1,0 +1,10 @@
+name: PortChecker
+version: 1.0
+author: ItmanHunter
+main: com.ocoolcraft.plugins.PortChecker
+description: Port Checker Plugin for votifer setup
+commands:
+  portc:
+    permission: portchecker.portc
+    description: Display and save all open ports from min to max
+    usage: /portc <min> <max>
