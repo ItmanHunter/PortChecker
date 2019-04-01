@@ -4,4 +4,5 @@
 ## Displays all open ports from minPort to maxPort
 ## The permission required is portchecker.portc 
 ## Download the portchecker-1.0.jar for direct usage.
+## version: 1.13+
     
